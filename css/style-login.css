@@ -1,0 +1,19 @@
+body{
+    background-color: #0f044e;
+    color: white;
+}
+
+.circle{
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+    position: relative;
+}
+
+.circle img{
+    position: absolute;
+    bottom:0;
+    height:80px;
+    width:90px;
+}
